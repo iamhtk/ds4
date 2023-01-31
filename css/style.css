@@ -1,6 +1,7 @@
 body{
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
     /* padding-left: 20;
     padding-right: 20;
     padding-top: 20;
@@ -32,9 +33,11 @@ h2{
 }
 
 img{
-    width: 500px;
-    height: 400px;
-    display:flex;
+    /* width: 500px;
+    height: 400px; */
+    width: 20%;
+    height: 20%;
+    display: flex;
     margin: 0 auto;
     border: 10px dashed #FFFFFF;
 }
